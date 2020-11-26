@@ -1,2 +1,4 @@
 # personal-bodyguard
   At Supreme Security Services, we ensure your safety is our priority. Parking issues are major issues across GTA in both the commercial sites and private sites. Our trained team is able to ensure notices to specific offences such as parking in a fire route, parking on private property without valid permit for an extended period of time, parking on non-designated areas i.e. designated for disabled without permit.  Our team performs regular patrols and documents or records every minute detail to keep away any disputes. The other services they perform while safeguarding the site is      Documentation and record keeping     Entry and Exit management     Gatehouse security     Patrolling      Monitoring CCTV     Risk assessment      Access control
+  
+  https://supremesecurityservices.ca/services/#residential
